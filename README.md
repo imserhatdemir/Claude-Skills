@@ -13,9 +13,6 @@ Clone this repository into your Claude Code commands directory:
 ```bash
 # Global commands (available in all projects)
 git clone https://github.com/imserhatdemir/Claude-Skills.git ~/.claude/commands
-
-# Project-scoped commands (available only in this project)
-git clone https://github.com/imserhatdemir/Claude-Skills.git ~/.claude/commands
 ```
 
 ### Usage
